@@ -1,5 +1,4 @@
-##¡Bienvenido a Doc Online!
-
+## Bienvenido a Doc Online!
 Es un placer recibirle en nuestra plataforma de telemedicina, un espacio diseñado para brindarle acceso a atención médica de calidad desde la comodidad de su hogar. En Doc Online, entendemos que su tiempo y bienestar son valiosos, por lo que hemos creado un entorno virtual que le permite conectarse con profesionales de la salud altamente capacitados de manera rápida y sencilla.
 
 Nuestro compromiso es ofrecerle un servicio excepcional, donde la atención personalizada y la confidencialidad son fundamentales. A través de nuestra plataforma, podrá programar consultas, acceder a diagnósticos, recibir tratamientos y realizar seguimientos médicos sin necesidad de desplazamientos, todo a través de una conexión segura.
