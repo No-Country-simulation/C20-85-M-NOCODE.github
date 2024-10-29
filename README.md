@@ -47,6 +47,7 @@ Agradecemos su confianza en Doc Online y le aseguramos que haremos todo lo posib
 
 ## Tecnologías
 Lista de tecnologías utilizadas en el proyecto:
+
 Figma,
 Wix,
 Trello,
